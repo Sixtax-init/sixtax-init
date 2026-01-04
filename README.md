@@ -186,11 +186,8 @@ Automatic message translation bot with focus on contextual accuracy and natural 
   <a href="https://github.com/Sixtax-init">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:jose.mtz8076@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
