@@ -170,15 +170,6 @@ Automatic message translation bot with focus on contextual accuracy and natural 
 
 ---
 
-### 🔬 Other Projects & Experiments
-
-> 💡 Additional projects and technical experiments can be found across my repositories, including:
-> - Web scrapers and automation tools
-> - API integrations and microservices
-> - Educational programming exercises
-> - Data visualization projects
-
----
 
 ## 🎯 Current Focus
 
